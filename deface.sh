@@ -9,9 +9,9 @@ clear
 echo
 echo
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
-echo $red"                   DARK RABBIT SECURITY"
+echo $red"                  CIREBON PROGRAMMER COMUNITY"
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
-echo $purple"                         DRS-TOOLS"
+echo $purple"                         CPC-TOOLS"
 echo $green"                       Author : suhandi"
 echo $cyan"                contact : rabbtdark28@gmail.com"
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
@@ -176,7 +176,7 @@ if [ $apaan = "C" ] || [ $apaan = "c" ]
 then
 clear
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
-echo $red"                   DARK RABBIT SECURITY"
+echo $red"                 CIREBON PROGRAMMER INDONESIA"
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
 echo $blue"         PENJELASAN DAN TATA CARA PEMAKAIAN TOOLS"
 echo $yellow"××××××××××××××××××××××××××××××××××××××××××××××××××××××××"
@@ -204,8 +204,8 @@ echo $yellow"×××××××××××××××××××××××××××××××××�
 read -p "Ya? (Y)" ya
 clear
 echo $green"Terimakasih telah menggunakam dan mempercayai jasa tools kami mohon maaf bila ada ketidaknyamanan anda di tools kami.. kami akan segera memperbaiki kesalahan di tools kami..."
-echo $green"Salam Damai Dari Kami" $red"DARK RABBIT SECURITY" $green"Semoga anda selalu diberikan kesehatan oleh tuhan YME"
-echo $blue" We Are Rabbit Team"
+echo $green"Salam Damai Dari Kami" $red"CIREBON PROGRAMMER COMUNITY" $green"Semoga anda selalu diberikan kesehatan oleh tuhan YME"
+echo $blue" We Are CPC team"
 echo $blue"We Hacked Silently"
 echo $blue"We Move With One Command"
 echo $blue" Expect US ! "
